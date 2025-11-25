@@ -53,9 +53,9 @@ Si todo ha ido bien, el sistema te devolverá tu puntuación y actualizará el L
 
 Archivos:
 
-**train.csv** -> Para hacer todos los entrenamientos y pruebas
-**test.csv** -> No tiene la columna ***y*** que es la que hay que predecir
-**submission_template.csv** -> hay que poner las predicciones hechas con el **test.csv** en la columna **PRED**
+- **train.csv** -> Para hacer todos los entrenamientos y pruebas
+- **test.csv** -> No tiene la columna ***y*** que es la que hay que predecir
+- **submission_template.csv** -> hay que poner las predicciones hechas con el **test.csv** en la columna **PRED**
 
 Una vez preparado el **submission_template.csv**, se subes las predicciones a la plataforma y a ver qué tal!!
 
